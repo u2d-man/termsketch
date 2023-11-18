@@ -1,4 +1,4 @@
-package termsketch
+package main
 
 import "fmt"
 
